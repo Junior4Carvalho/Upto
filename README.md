@@ -6,8 +6,7 @@
 
 # Progresso:
 
-Infelizmente ainda não fiz uma GUI pra ele
-mas Jájá crio uma a GUI
+None 
 
 ## Créditos ⬇️
 - <a href="https://github.com/Junior4Carvalho">Junior Carvalho </a> 🚀
