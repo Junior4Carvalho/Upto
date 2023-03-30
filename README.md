@@ -2,7 +2,7 @@
 
 # O que é:
 
-"Upto" É um Python script que mostra a soma de todos os números que antecedem um determinado número (inclusive o próprio número).
+"Upto" É um código Python que mostra a soma de todos os números que antecedem um determinado número (inclusive o próprio número).
 
 # Progresso:
 
